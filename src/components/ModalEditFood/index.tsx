@@ -5,14 +5,6 @@ import { Form } from './styles';
 import Modal from '../Modal';
 import { Input } from '../Input';
 
-interface iFood {
-  id: number;
-  name: string;
-  description: string;
-  price: number;
-  available: boolean;
-  image: string
-}
 interface EditFoodProps {
   image: string;
   name: string;

@@ -13,7 +13,7 @@ export default function Modal({ isOpen, setIsOpen, children }: ModalProps) {
 
   useEffect(() => {
     setModalStatus(isOpen);
-  }, [])
+  }, [isOpen])
 
   return (
     <ReactModal
