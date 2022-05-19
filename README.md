@@ -1,18 +1,16 @@
 # Bem vindo ao projeto Go Restaurant. Fique atento(a), vamos lhe apresentar as melhores comidas italianas.
 
-## No diretório do projeto, você pode executar:
-
-### Baixar as dependências: `yarn`
-
-### Iniciar o backend: `yarn server`
-### Iniciar o projeto: `yarn start`
+### No diretório do projeto, você pode executar os seguintes comandos:
+> Baixar as dependências: `yarn`; <br/>
+> Iniciar o backend: `yarn server`; <br/>
+> Iniciar o projeto: `yarn start`; <br/>
 
 ## Dependências:
 > Styled Components: Estilização do projeto; <br/>
 > AXIOS: Consumo de informações via API; <br/>
 > react-icons; <br/>
 > react-modal; <br/>
-<br/>
+
 ### Os principais conceitos trabalhados no projeto foram, utilização do typeScript, repasse de propriedades, estado, imutabilidade e Hooks.
 
 # Demonstração do projeto
