@@ -1,4 +1,4 @@
-# Bem vindo ao projeto Go Restaurant. Fique atento(a), vamos lhe apresentar as melhores comidas italianas.
+# Bem vindo ao projeto Go Restaurant. Fique atento(a), vamos lhe apresentar as melhores comidas italianas!
 
 ### No diretório do projeto, você pode executar os seguintes comandos:
 > Baixar as dependências: `yarn`; <br/>
